@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\IMPQUE\IMPQUE\bin\Debug\IMPQUE.exe.config
+C:\Users\Prave\source\repos\IMPQUE\IMPQUE\bin\Debug\IMPQUE.exe
+C:\Users\Prave\source\repos\IMPQUE\IMPQUE\bin\Debug\IMPQUE.pdb
+C:\Users\Prave\source\repos\IMPQUE\IMPQUE\obj\Debug\IMPQUE.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\IMPQUE\IMPQUE\obj\Debug\IMPQUE.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\IMPQUE\IMPQUE\obj\Debug\IMPQUE.exe
+C:\Users\Prave\source\repos\IMPQUE\IMPQUE\obj\Debug\IMPQUE.pdb
